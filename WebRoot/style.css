@@ -1,0 +1,40 @@
+* 
+{
+    padding:0;
+    margin:0;
+}
+
+.sidenav 
+{
+
+    width:10%;
+    background-color:#17173A;
+    color: white;
+}
+
+.sidenav a 
+{
+    color:white;
+}
+
+.container 
+{
+
+    width:90%;
+    background-color:#DFDFDF;
+}
+
+a 
+{
+    text-decoration:none;
+}
+
+strong 
+{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.card-title
+{
+    color: black !important;
+}
